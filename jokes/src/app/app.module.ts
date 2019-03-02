@@ -8,6 +8,7 @@ import { environment } from '../environments/environment';
 
 import { HttpClientModule} from '@angular/common/http';
 import { DataService } from './data.service';
+
 @NgModule({
   declarations: [
     AppComponent
